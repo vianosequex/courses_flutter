@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021026196375",
+    "project_id": "courses-92eb8",
+    "storage_bucket": "courses-92eb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021026196375:android:46d887369399dc188d82d2",
+        "android_client_info": {
+          "package_name": "com.viano.courses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021026196375-8fbon35nuq1kughgr1d4m45rkm33n694.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Ip6MIQKtwEv4DJqqrOiuTLvQ3qc_pQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021026196375-8fbon35nuq1kughgr1d4m45rkm33n694.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
